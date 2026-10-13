@@ -2,7 +2,7 @@
 
 Lend a Google Colab GPU to your factory's model training in [TrakrAI](https://ai.trakr.live).
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jainhardik120/trakrai-colab-worker/blob/main/trakrai-colab-worker.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HacklabSoftware/trakrai-colab-worker/blob/main/trakrai-colab-worker.ipynb)
 
 ## How it works
 
